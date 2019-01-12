@@ -1,7 +1,7 @@
 const path = require('path')
 
 module.exports = {
-  // pathPrefix: '/gatsby-engaged',
+  pathPrefix: '/gatsby-white-theme',
   siteMetadata: {
     title: 'Brett & Internet',
     description: `Are getting married 🤵💍🌎`,
